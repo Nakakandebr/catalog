@@ -1,0 +1,255 @@
+@media (max-width: 600px) {
+    body {
+      background-color: #87ceeb;
+    }
+  }
+
+    
+
+.contain ul li{
+    display: inline-flex;
+    margin-left: 60px;
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-between;
+}
+    .contain{text-align: center;
+    }
+    .uk{width: 30px;float: right;
+        margin-left: -25%;
+    }
+    #imag{width: 80px;
+    }
+    .t{margin-left: 30%;
+    }
+    .brickhouse{display: flex;margin: 20px;
+        border-style: solid;
+        background-color: yellow;
+        border-color: yellow;
+    }
+    #cata{background-color: gray;
+        border-radius: 20px;
+        padding: 10px;
+        margin: 20px;
+    }
+    #inp{border-radius: 5px;
+        background-color: white;
+        margin: 20px;
+        height: 40px;
+        width: 200px;
+    }
+    #ht{font-size: 40px;
+        margin: 10px;
+    }
+    #cart{font-size: 40px;
+        margin: 10px;
+    }
+    #use{font-size: 40px;
+        float: right;
+        margin: 10px;
+    }
+    #new{border-radius: 10px;
+        background-color: yellow;
+        border-color: yellow;
+        margin-top: -25%;
+        margin-top: 30%;
+    }
+    .movi{display: flex;
+        background-color: black;
+        color: aliceblue;
+        border-style: solid;
+        border-color: black;
+        margin: 20px;
+        margin-top: -3%;
+    }
+    #st{float: right;
+         font-family: 'Times New Roman', Times, serif;
+         margin-left: 25%;
+    }
+    .con{display: flex;
+    }
+    .ci{border-style: solid;
+        border-color: darkgray;
+        border-radius: 10px;
+        width: 240px;
+        margin-left: 5%;
+        padding: 0 20px;
+        height: 130vh;
+        margin-left: 1%;
+    }
+    input[type=range][orient=vertical]
+{
+    writing-mode: bt-lr; 
+    -webkit-appearance: slider-vertical; 
+    width: 8px;
+    height: 175px;
+    padding: 0 5px;
+    float: right;
+    margin-top: -200%;
+    background-color: #FFD600;
+}
+    .imagesone{display: flex;
+    }
+   .images{display: flex;
+    margin-left: 20px;
+
+}
+    #img1{width: 200px;
+    }
+    #img2{width: 200px;
+        margin-left: 50%;
+        
+    }
+    #tie{
+    margin-left:50%
+
+    }
+    #at{
+        margin-left:100%
+    }
+    #img3{width: 200px;
+        margin-left: 100%;
+    }
+    .imagestwo{display: flex;
+    }
+    #img4{width: 250px;
+    }
+    #rep{
+     margin-left:20%;
+     margin-top:-20%;
+    }
+    #img5{width: 200px;
+        margin-left: 50px;
+    }
+    #dol{
+        margin-left:40%;
+       
+       }
+    #img6{width: 200px;
+        margin-left: 50%;
+    }
+    #raz{
+        margin-left:50%;
+      
+       }
+    .imagesthree{display: flex;
+    }
+    #img7{width: 200px;
+        margin-left: 50px;
+    }
+    #man{
+        margin-left:25%;
+      
+       }
+    #img8{width: 200px;
+        
+        margin-left: 50%;
+    }
+    #inq{
+        margin-left:50%;
+      
+       }
+    #img9{width: 200px;
+        margin-left: 75%;
+        margin-top: -10%;
+    }
+    #obi{
+        margin-left:65%;
+        margin-top:-2%
+      
+       }
+    .imagesfour{display: flex;
+    }
+    #img10{width: 200px;
+        
+    }
+    #hoth{
+       margin-left:20%
+        
+    }
+    #img11{width: 200px;
+        margin-left: 50%;
+    }
+    #fet{
+        margin-left:120px;
+    }
+    #img12{width: 200px;
+        margin-left: 60%;
+    }
+    #ambush{
+        margin-left:150px;
+    }
+    .imagesfive{display: flex;
+    }
+    #img13{width: 200px;
+    }
+    #fet{
+        margin-left:120px;
+    }
+    #just{
+        margin-top: -2%;
+    }
+    #img14{width: 200px;
+        margin-left: 50%;
+    }
+    #clone{
+        margin-left:120px;
+    }
+    #img15{width: 200px;
+        margin-left: 80%;
+    }
+    #boba{
+        margin-left:120px;
+    }
+     #am{
+     color:yellow;
+     }
+     .buttn {
+     margin-left:40%;
+     border-radius: 20px;
+
+     }
+     .buttn button{
+         border-radius: 18px;
+         padding: 7px 12px;
+     }
+     #one{
+       background-color: #FFD600;  
+     }
+     .see button{
+      margin-left:40%;
+      /* height: 10vh; */
+      width:20%;
+      padding: 9px 12px;
+      border-radius: 7px;
+      background-color: #FFD600;
+      border-color: #FFD600;
+      color: white;
+     }
+    .footer{
+        padding:50px;
+        background-color: #26004C;
+        color: #fff;
+       
+        height: 40vh;
+        
+    }
+    .row{
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer-two{
+        
+        display:flex;
+        justify-content: space-between;
+        
+    }
+    @media screen and (max-width:1200px) {
+        .imageone{
+            background-color: aqua;
+        }
+        .ci{
+            background-color: aqua;
+        }
+    }
+    
