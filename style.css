@@ -1,10 +1,4 @@
-@media (max-width: 600px) {
-    body {
-      background-color: #87ceeb;
-    }
-  }
 
-    
 
 .contain ul li{
     display: inline-flex;
@@ -88,8 +82,24 @@
     margin-top: -200%;
     background-color: #FFD600;
 }
+#twety{
+margin-left: 50%;
+
+}
+#twety i {
+    margin-left: 23%;
+    background-color: #FFD600;
+}
+#twety button{
+    background-color: #E70062;
+    border-color: #E70062;
+    border-radius: 20%;
+}
     .imagesone{display: flex;
     }
+ 
+
+    
    .images{display: flex;
     margin-left: 20px;
 
@@ -244,12 +254,18 @@
         justify-content: space-between;
         
     }
-    @media screen and (max-width:1200px) {
-        .imageone{
-            background-color: aqua;
-        }
-        .ci{
-            background-color: aqua;
+    
+    @media(min-width: 1025px) and (max-width:1200px) {
+        body{
+            margin-left: 20%;
         }
     }
+    @media(min-width: 769px) and (max-width:1024px) {
+        body{
+        }
+    }
+    @media(min-width: 481px) and (max-width: 768px) {
+        body{
+        }
+    } 
     
