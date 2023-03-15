@@ -257,15 +257,36 @@ margin-left: 50%;
     
     @media(min-width: 1025px) and (max-width:1200px) {
         body{
-            margin-left: 20%;
+        margin: 0;
+        background-color: antiquewhite;
+        padding: 0;
         }
-    }
-    @media(min-width: 769px) and (max-width:1024px) {
+        .images{
+         margin: 2%;
+         padding: 0;
+         
+
+
+
+          }
+
+        }
+    
+    @media(min-width: 789px) and (max-width:1024px) {
         body{
+            
         }
     }
     @media(min-width: 481px) and (max-width: 768px) {
         body{
+        }
+      
+
+      }
+       
+       
+
+
         }
     } 
     
